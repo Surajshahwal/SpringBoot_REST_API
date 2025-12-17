@@ -1,0 +1,11 @@
+{
+	"name": "rani",
+	"from": "BPL",
+	"to": "JBL",
+	"gender": "Female",
+	"add": {
+		"city": "Bhopal",
+		"state": "Mp",
+		"country": "India"
+	}
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+	<addr>
+		<city>Bhopal</city>
+		<country>India</country>
+		<state>MP</state>
+	</addr>
+	<email>suraj@gmail.com</email>
+	<gender>male</gender>
+	<id>101</id>
+	<name>raju</name>
+</person>
