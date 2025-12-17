@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: 06Spring_Data_Rest_Apps
+
+  datasource:
+    url: jdbc:mysql://localhost:3306/sbms12
+    username: root
+    password: Suraj@123
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: update
